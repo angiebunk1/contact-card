@@ -1,5 +1,6 @@
   import "./form";
   import "./submit";
+  import "../css/index.css";
   import Logo from '../images/logo.png';
 import Bear from '../images/bear.png';
 import Dog from '../images/dog.png';
